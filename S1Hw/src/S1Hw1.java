@@ -1,6 +1,3 @@
-import java.io.File;
-import java.util.Scanner;
-
 public class S1Hw1 {
 
     // Реализуйте 3 метода, чтобы в каждом из них получить разные исключения
