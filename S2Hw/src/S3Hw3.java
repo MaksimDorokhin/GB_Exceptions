@@ -1,6 +1,6 @@
-import java.io.FileNotFoundException;
-
 public class S3Hw3 {
+
+    // Дан следующий код, исправьте его там, где требуется
     public static void main(String[] args) { // Удалил throws Exception
         int a = 90;
         int b = 3;

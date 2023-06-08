@@ -1,4 +1,6 @@
 public class S2Hw2 {
+
+    // Если необходимо, исправьте данный код
     public static void main(String[] args) {
         // Добавим инициализацию массива intArray
         int[] intArray = {1,2,3,4,5,6,7,8,9,10};
